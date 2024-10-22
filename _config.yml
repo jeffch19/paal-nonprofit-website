@@ -4,15 +4,15 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Project Example
+org_name: PAAL - Turkey and Tech!
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  A mobile-friendly Github Pages template designed to help grassroots nonprofits get a website online quickly
+  PAAL “Preparing Adolescents with Autism for Adult Life” began operations in September of 2006.  PAAL is a specialty secondary-educational program for adolescents with moderate to severe autism between the ages of 14 and 21, which establishes a professional collaboration between the educational system, families, and the community-at-large.  The primary goal of the PAAL program is to identify and teach the skills which must be mastered to prepare the student for his or her post-21 years.  Since “best practices’ indicate that individuals with autism learn better in the naturally-occurring environment, the program utilizes the community as its classroom.  By so doing, the fundamental principles of transition and integration into the community for adult life are supported.
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.
+  Mission for Educating Citizens with Autism (MECA) assists individuals with autism in reaching their full potential as productive, socially-connected, and personally-fulfilled individuals by establishing appropriate educational in the least restrictive environment possible, by raising the general public’s awareness of autism, by advocating for greater acceptance and support of individuals with autism, and by facilitating opportunities for persons with autism to participate more fully in their communities.
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: your-email@somedomain.com
+org_general_email_inbox: jcummings@paalprogram.org
 org_street_address: 1355 Market Street #Please include suite number on the line below
 org_address_suite: Suite 900
 org_city: San Francisco
