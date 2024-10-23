@@ -13,14 +13,14 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: jcummings@paalprogram.org
-org_street_address: 1355 Market Street #Please include suite number on the line below
-org_address_suite: Suite 900
-org_city: San Francisco
-org_state: CA
+org_street_address: 115 Washington Avenue #Please include suite number on the line below
+org_address_suite: #
+org_city: Downingtown
+org_state: PA
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  94103
+  19335
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (123) 456-7890
+  (610) 873-6291
 
 #SOCIAL MEDIA
 org_twitter_username: smartergiving
